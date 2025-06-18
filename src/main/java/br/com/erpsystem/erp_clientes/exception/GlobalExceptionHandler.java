@@ -36,5 +36,5 @@ public class GlobalExceptionHandler {
     // @ExceptionHandler(Exception.class)
     // public ResponseEntity<String> handleGeneralException(Exception ex) {
     //     return new ResponseEntity<>("Ocorreu um erro interno no servidor.", HttpStatus.INTERNAL_SERVER_ERROR);
-    // }
+    // } a
 }
